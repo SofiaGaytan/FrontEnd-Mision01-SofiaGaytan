@@ -23,3 +23,5 @@ En este repositorio, se encuentra la práctica de Introducción a FrontEnd de La
 - [X] [Toma de Requerimientos](https://github.com/SofiaGaytan/FrontEnd-Mision01-SofiaGaytan/blob/main/Contenido/TomaDeRequerimientos.md)
 - [X] [Buyer Persona](https://github.com/SofiaGaytan/FrontEnd-Mision01-SofiaGaytan/blob/main/Contenido/BuyerPersona.md)
 - [X] [Publico Objetivo](https://github.com/SofiaGaytan/FrontEnd-Mision01-SofiaGaytan/blob/main/Contenido/PublicoObjetivo.md)
+- [X] [Wireframe UX](https://github.com/SofiaGaytan/FrontEnd-Mision01-SofiaGaytan/blob/main/Contenido/WireframeUX.md)
+- [X] [Wireframe UI](https://github.com/SofiaGaytan/FrontEnd-Mision01-SofiaGaytan/blob/main/Contenido/WireframeUI.md)
